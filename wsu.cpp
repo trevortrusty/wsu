@@ -18,5 +18,6 @@ int main()
 	cout << "         .          /  \\         ." << endl;
 	cout << "          \\       /      \\      /" << endl;
 	cout << "            \\    /        \\   /"  << endl;
-	cout << "               ./          \\." << endl;
+	cout << "               ./          \\." << endl << endl;
+	cout << "You've been WAYNE-STATED\n\n";
 }                 
